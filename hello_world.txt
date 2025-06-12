@@ -1,2 +1,4 @@
-I just want to do this one more time so I can rember the process.
+I just want to do this one more time so I can remember the process.
 By the way wagan world!
+
+I was tasked with adding in some extra text so I can commit the whole repository
